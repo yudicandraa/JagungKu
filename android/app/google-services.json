@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133085885013",
+    "project_id": "jagungku-8b732",
+    "storage_bucket": "jagungku-8b732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133085885013:android:7567c5410d9f65b0c3dadc",
+        "android_client_info": {
+          "package_name": "com.example.jagungku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133085885013-7hon2t8l905ta86g9p2qf80149uvulih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hfO4wS-HQVdpcTtv7zMx93MR7sys7lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133085885013-7hon2t8l905ta86g9p2qf80149uvulih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
